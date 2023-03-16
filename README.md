@@ -17,3 +17,13 @@ int main( ){
     return 0;
 }
 ```
+
+### Escape Characters
+<hr>
+
+Escape characters are special characters that you can use.
+<ul>
+    <li>\n - used for new line</li>
+    <li>\t - used for horizontal white space</li>
+    <li>\a - used for alarm</li>
+</ul>
