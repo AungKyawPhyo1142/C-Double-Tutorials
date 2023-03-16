@@ -3,6 +3,33 @@ All the fundamentals concepts of C++ you need to know about in one github repo
 
 <br>
 
+### Guide
+
+<ol>
+    <li>Variables and Data Types</li>
+    <li>Standard Input and Output</li>
+    <li>
+        Control Flows & Loops
+            <ol type="a">
+                <li>
+                    Control Flows
+                    <ol type="i">
+                        <li>if-statement</li>
+                        <li>switch-statement</li>
+                    </ol>
+                </li>
+                <li>
+                    Loops
+                    <ol type="i">
+                        <li>for-loop</li>
+                        <li>while-loop</li>
+                        <li>do-while-loop</li>
+                    </ol>
+                </li>
+            </ol>
+    </li>
+</ol>
+
 ### Generic Syntax Form of C++
 <hr>
 
