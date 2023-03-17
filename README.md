@@ -28,6 +28,13 @@ All the fundamentals concepts of C++ you need to know about in one github repo
                 </li>
             </ol>
     </li>
+    <li>
+        Jump Statements
+        <ol>
+            <li>continue-statement</li>
+            <li>break-statement</li>
+        </ol>
+    </li>
 </ol>
 
 ### Generic Syntax Form of C++
