@@ -30,13 +30,14 @@ All the fundamentals concepts of C++ you need to know about in one github repo
     </li>
     <li>
         Jump Statements
-        <ol>
+        <ol type="i">
             <li>continue-statement</li>
             <li>break-statement</li>
         </ol>
     </li>
     <li>Ternary Operator</li>
     <li>Our First Mini-Project</li>
+    <li>Functions</li>
 </ol>
 
 ### Generic Syntax Form of C++
