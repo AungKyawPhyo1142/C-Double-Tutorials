@@ -36,6 +36,7 @@ All the fundamentals concepts of C++ you need to know about in one github repo
         </ol>
     </li>
     <li>Ternary Operator</li>
+    <li>Our First Mini-Project</li>
 </ol>
 
 ### Generic Syntax Form of C++
