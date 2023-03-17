@@ -35,6 +35,7 @@ All the fundamentals concepts of C++ you need to know about in one github repo
             <li>break-statement</li>
         </ol>
     </li>
+    <li>Ternary Operator</li>
 </ol>
 
 ### Generic Syntax Form of C++
